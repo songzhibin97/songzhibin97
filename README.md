@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - 🔭 Gopher
 - 🌱 Open source fancier
 - 🔥 gin-vue-admin https://www.gin-vue-admin.com/
-- 🔥 gf-vue-admin https://github.com/flipped-aurora/gf-vue-admin
+- 🔥 go-web-model https://github.com/songzhibin97/GoWebModel
+- 🔥 logAgent https://github.com/songzhibin97/LogAgent 
 - 🏠 Homepage at https://www.cnblogs.com/binHome/
 
 ---
