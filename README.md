@@ -2,7 +2,7 @@
 
 
 <img align="right"  width="400px" src="./developer-github.gif"  />
----
+
 
 - 🔭 Gopher
 - 🌱 Open source fancier
@@ -12,4 +12,4 @@
 - 🔥 logAgent https://github.com/songzhibin97/LogAgent 
 - 🏠 Homepage at https://www.cnblogs.com/binHome/
 
----
+
