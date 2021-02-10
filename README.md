@@ -29,8 +29,3 @@ Here are some ideas to get you started:
 - 🏠 Homepage at https://www.cnblogs.com/binHome/
 
 ---
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=songzhibin97&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songzhibin97&layout=compact" />
-</div>
