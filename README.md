@@ -14,4 +14,7 @@
 - 🔥 holmes https://github.com/mosn/holmes
 - 🔥 mini-compiler https://github.com/songzhibin97/mini-compiler
 - 🔥 mini-interpreter https://github.com/songzhibin97/mini-interpreter
+- 🔥 go-Dag https://github.com/songzhibin97/go-Dag
+- 🔥 singleflight_cache https://github.com/songzhibin97/singleflight_cache
+- 🔥 stateful_service_pools https://github.com/songzhibin97/stateful_service_pools
 - 🏠 Homepage at https://www.cnblogs.com/binHome
